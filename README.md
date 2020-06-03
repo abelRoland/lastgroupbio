@@ -14,5 +14,5 @@ Get to know more about us:
 - [Abel](./abel.md)
 - [Galal](./galal.md)
 - [Lisa](./lisa.md)
-- Mari
+- [Mari](./mari.md)
 - [Sayed](./intro-sayed.md)
